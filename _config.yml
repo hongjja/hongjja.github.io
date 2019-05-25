@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               공부하는 홍짜 ʕ·ᴥ·ʔ
-tagline:             '공부공부'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               공부하는 홍짜
+tagline:             ''
+description:         '하고 싶은 공부하면서 살래요🥺'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
